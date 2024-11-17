@@ -3,7 +3,7 @@
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
-<img src="https://i.imgur.com/G7TGxgl.png" width="400" alt="HiveSpace Logo" />
+<img src="https://i.imgur.com/70NlonX.png" width="400" alt="HiveSpace Logo" />
 </div>
 
 <h1 align="center"></h1>
